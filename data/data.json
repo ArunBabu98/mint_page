@@ -1,0 +1,18 @@
+{
+    "name": "NFT example(required)",
+    "image": "example.jpg(required)",
+    "animation_url": "example.mp4(optional)",
+    "description": "example desciption(required)",
+    "external_url": "An exteranl url to a desired webiste(optional)",
+    "background_color": "Used to set a background color for NFT markets like opensea(optional)",
+    "attributes": [
+        {
+            "trait_type": "example_trait_1",
+            "value": "example_value_1"
+        },
+        {
+            "trait_type": "example_trait_2",
+            "value": "example_value_2"
+        }
+    ]
+}
